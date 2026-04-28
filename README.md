@@ -55,7 +55,6 @@ This tool includes built-in safety controls.
 
 Live packet sending requires the user to check:
 
-```text
 I confirm I am in an authorized lab environment.
 
 ## Legal and Authorized Use Notice
